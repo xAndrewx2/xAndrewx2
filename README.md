@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xAndrewx2
+- 👀 I’m interested in to be come Développer Front end with React.js
+- 🌱 I’m currently learning Developpement Web
+- 💞️ I’m looking to collaborate on openclassroom
+- 📫 How to reach me anhkhoi277@gmail.com
